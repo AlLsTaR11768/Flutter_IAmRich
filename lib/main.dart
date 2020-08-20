@@ -11,7 +11,7 @@ void main() {
         ),
         body: Center(
           child: Image(
-            image: NetworkImage('https://pbs.twimg.com/profile_images/1160657428494655490/H6029Pp1_400x400.jpg'),
+            image: AssetImage('images/Crying Cat.png'),
           ),
         )
       ),
